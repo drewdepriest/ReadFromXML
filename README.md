@@ -3,7 +3,7 @@ ReadFromXML
 
 For many web services that get rolled out to a large user base, it helps to leave configuration information stored in editable XML files. This will allow your less-technical users to deploy the app without having to edit any lines of Java and recompiling as a .war.
 
-This repo contains files that handle the first part: reading in local XML data and storing it in newly-created beans. For the sake of the demo, this repo package also prints all bean information to the console. It should look like this:
+This repo contains files that handle the first part: reading in local XML data (/WEB-INF/configs/music.xml) and storing it in newly-created beans. For the sake of the demo, this repo package also prints all bean information to the console. It should look like this:
 
 There are 10 tracks in playlist #MKT376<br>
 Track: Escape<br>
