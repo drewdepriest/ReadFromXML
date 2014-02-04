@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 'interval' represents number of seconds between thread cycles -->
+<spotify interval="10">
+    <tracks playlist="#MKT376">
+        <track>
+            <title>Escape</title>
+            <artist>3LAU</artist>
+            <duration>4:36</duration>
+        </track>
+        <track>
+            <title>Chicago is So Two Years Ago</title>
+            <artist>Fall Out Boy</artist>
+            <duration>3:20</duration>
+        </track>
+        <track>
+            <title>Atmosphere</title>
+            <artist>Kaskade</artist>
+            <duration>3:52</duration>
+        </track>
+        <track>
+            <title>El Scorcho</title>
+            <artist>Weezer</artist>
+            <duration>4:04</duration>
+        </track>
+        <track>
+            <title>The General</title>
+            <artist>Dispatch</artist>
+            <duration>4:06</duration>
+        </track>
+        <track>
+            <title>Go Go Gadget Flow</title>
+            <artist>Lupe Fiasco</artist>
+            <duration>4:11</duration>
+        </track>
+        <track>
+            <title>Sundown - Original Mix</title>
+            <artist>Chris Lake</artist>
+            <duration>6:34</duration>
+        </track>
+        <track>
+            <title>Levels - Radio Edit</title>
+            <artist>Avicii</artist>
+            <duration>3:20</duration>
+        </track>
+        <track>
+            <title>Calling (Lose My Mind)</title>
+            <artist>Sebastian Ingrosso, Alesso</artist>
+            <duration>3:26</duration>
+        </track>
+        <track>
+            <title>Make Me Proud</title>
+            <artist>Drake, Nicki Minaj</artist>
+            <duration>3:40</duration>
+        </track>
+    </tracks>
+</spotify>
